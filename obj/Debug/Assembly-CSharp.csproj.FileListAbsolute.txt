@@ -1,0 +1,2 @@
+Z:\UnityProjects\Labyrinthe\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+Z:\UnityProjects\Labyrinthe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
